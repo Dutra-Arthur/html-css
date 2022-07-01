@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+:root {
+    --cor1: #FCD80D;
+    --cor2: #E0AB0B;
+    --cor3: #F7A100;
+    --cor4: #E07D0B;
+    --cor5: #FC690D;
+}
+
+body {
+    background-color: var(--cor1);
+}
+
+main img {
+    width: 100%;
+}
